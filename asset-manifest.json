@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MinishopApp-Reduxasync/static/css/main.71b36506.css",
+    "main.js": "/MinishopApp-Reduxasync/static/js/main.ee0ccc69.js",
+    "index.html": "/MinishopApp-Reduxasync/index.html",
+    "main.71b36506.css.map": "/MinishopApp-Reduxasync/static/css/main.71b36506.css.map",
+    "main.ee0ccc69.js.map": "/MinishopApp-Reduxasync/static/js/main.ee0ccc69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b36506.css",
+    "static/js/main.ee0ccc69.js"
+  ]
+}
