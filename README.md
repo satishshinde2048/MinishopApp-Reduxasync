@@ -27,7 +27,7 @@
 
 + Clone the project:
 
-      git clone https://github.com/satishshinde2048/.git
+      git clone https://github.com/satishshinde2048/MinishopApp-Reduxasync/.git
 
 
 + Navigate to the project directory:
